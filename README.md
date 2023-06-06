@@ -19,7 +19,7 @@ Auto Script Install All VPN XLORD vps premi
 
 # DONASI NYA
 
-![logo](https://raw.githubusercontent.com/xlord27/VPN/main/20230424_073153.png)  
+![logo](https://raw.githubusercontent.com/xlord27/VPN/main/IMG-20230514-WA0390.jpg)  
 
 
 
