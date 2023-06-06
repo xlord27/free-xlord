@@ -1,6 +1,7 @@
-# SC FREE BY XLORD
+# SC FREE BY 
 
-![logo](https://raw.githubusercontent.com/xlord27/free-xlord/20230424_073153.png)
+![logo](https://raw.githubusercontent.com/xlor
+d27/free-xlord/20230424_073153.png)
 # Autoscript SSH & XRAY MULTIPORT 443 & 80
 
 
